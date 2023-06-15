@@ -1,0 +1,24 @@
+<th style="width: 22%;">Cloud_pct</th>
+<th style="width: 22%;">Feels_like</th>
+<th style="width: 22%;">Humidity</th>
+<th style="width: 22%;">Max_temp</th>
+<th style="width: 22%;">Min_temp</th>
+<th style="width: 22%;">Sunrise</th>
+<th style="width: 22%;">Sunset </th>
+<th style="width: 22%;">Temp</th>
+<th style="width: 22%;">Wind_degrees</th>
+<th style="width: 22%;">Wind_speed</th>
+
+
+
+
+"cloud_pct": 50,
+   temp": 26,
+  "feels_like": 26,
+  "humidity": 85,
+  "min_temp": 26,
+  "max_temp": 26,
+  "wind_speed": 0.74,
+  "wind_degrees": 8,
+  "sunrise": 1686789253,
+  "sunset": 1686835716
